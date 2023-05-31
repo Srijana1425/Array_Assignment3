@@ -10,7 +10,7 @@ Output: 2<br>
 **Explanation:** The sum that is closest to the target is 2. (-1 + 2 + 1 = 2).<br><br>
 
 *Answer*<br>
-**code** [Link]()
+**code** [Link](https://github.com/Srijana1425/Array_Assignment3/blob/main/ans1.js)
 
 *********************************************************************************************************************
 **Question 2**
@@ -25,7 +25,7 @@ You may return the answer in any order.<br>
 Input: nums = [1,0,-1,0,-2,2], target = 0<br>
 Output: [[-2,-1,1,2],[-2,0,0,2],[-1,0,0,1]]<br><br>
 *Answer*<br>
-**code** [Link]()
+**code** [Link](https://github.com/Srijana1425/Array_Assignment3/blob/main/ans2.js)
 
 *********************************************************************************************************************
 **Question 3**
@@ -55,7 +55,7 @@ The replacement must be in place and use only constant extra memory.<br>
 Input: nums = [1,2,3]<br>
 Output: [1,3,2]<br><br>
 *Answer*<br>
-**code** [Link]()
+**code** [Link](https://github.com/Srijana1425/Array_Assignment3/blob/main/ans3.js)
 
 *********************************************************************************************************************
 **Question 4**
@@ -69,7 +69,7 @@ You must write an algorithm with O(log n) runtime complexity.<br>
 Input: nums = [1,3,5,6], target = 5<br>
 Output: 2<br><br>
 *Answer*<br>
-**code** [Link]()
+**code** [Link](https://github.com/Srijana1425/Array_Assignment3/blob/main/ans4.js)
 
 *********************************************************************************************************************
 **Question 5**
@@ -89,7 +89,7 @@ Incrementing by one gives 123 + 1 = 124.<br>
 Thus, the result should be [1,2,4].<br><br>
 
 *Answer*<br>
-**code** [Link]()
+**code** [Link](https://github.com/Srijana1425/Array_Assignment3/blob/main/ans5.js)
 
 *********************************************************************************************************************
 **Question 6**
@@ -103,7 +103,7 @@ constant extra space.<br>
 Input: nums = [2,2,1]<br>
 Output: 1<br><br>
 *Answer*<br>
-**code** [Link]()
+**code** [Link](https://github.com/Srijana1425/Array_Assignment3/blob/main/ans6.js)
 
 *********************************************************************************************************************
 **Question 7**
@@ -127,7 +127,7 @@ Output: [[2,2],[4,49],[51,74],[76,99]]<br>
 [51,74]<br>
 [76,99]<br><br>
 *Answer*<br>
-**code** [Link]()
+**code** [Link](https://github.com/Srijana1425/Array_Assignment3/blob/main/ans7.js)
 
 *********************************************************************************************************************
 **Question 8**
@@ -137,5 +137,5 @@ determine if a person could attend all meetings.<br>
 Input: intervals = [[0,30],[5,10],[15,20]]<br>
 Output: false<br><br>
 *Answer*<br>
-**code** [Link]()
+**code** [Link](https://github.com/Srijana1425/Array_Assignment3/blob/main/ans8.js)
 
